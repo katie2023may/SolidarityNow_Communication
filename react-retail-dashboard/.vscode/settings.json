@@ -1,6 +1,0 @@
-{
-    "debug.onTaskErrors": "abort",
-    "files.exclude": {
-        "**/jest-output": true
-    }
-}

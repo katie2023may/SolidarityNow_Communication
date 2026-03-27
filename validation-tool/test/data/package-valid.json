@@ -1,6 +1,0 @@
-{
-  "name": "test project",
-  "engines": {
-    "node": "16 || 18"
-  }
-}
